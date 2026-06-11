@@ -20,7 +20,7 @@ SEO 점수와 피드백을 통해 플레이스 관리 전략을 수립할 수 �
 
 ## 🎥 Demo
 
-> 추후 추가 예정
+👉 [PlaceUP 서비스 바로가기](https://f02a4708.placeup-frontend-ev5.pages.dev/)
 
 ---
 
