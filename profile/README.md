@@ -21,7 +21,7 @@ SEO 점수와 피드백을 통해 플레이스 관리 전략을 수립할 수 �
 ## 🎥 Demo
 
 👉 [PlaceUP 서비스 바로가기](https://placeup-frontend.pages.dev/)
-👉 [PlaceUP 시연 영상 보기](https://app.notion.com/p/PlaceUP-36ec70957efc80fdac2dd3e50dc46c55?source=copy_link)
+👉 [PlaceUP 시연 영상 보기](https://youtu.be/FWP3C7vHY_M?si=kVCF8JOCtAmPJ6w7)
 
 ---
 
